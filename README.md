@@ -1,4 +1,4 @@
-# Cont & Kukanov Smart Order Router - README
+# Cont & Kukanov Smart Order Router 
 
 ## Overview
 
@@ -28,7 +28,7 @@ The script will print a well-formatted JSON object to `stdout` with the followin
 
 ## Parameter Grid Search
 
-We searched across the following combinations:
+Searched across the following combinations:
 
 ```
 lambda_over  ∈ [0.001, 0.01, 0.1, 0.5, 1.0]
@@ -72,5 +72,5 @@ The script completes within 2 minutes on a standard laptop using only `pandas`, 
 
 ---
 
-Author: \[Your Name Here]
-Last Updated: May 2025
+Author: Sai Nithin Bharadwaj Govind
+
