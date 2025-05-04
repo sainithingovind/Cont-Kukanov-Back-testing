@@ -73,4 +73,4 @@ The script completes within 2 minutes on a standard laptop using only `pandas`, 
 ---
 
 Author: Sai Nithin Bharadwaj Govind
-
+sainithinbharadwajgovind@gmail.com
